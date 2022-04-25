@@ -6,7 +6,7 @@ A functional encrypted group chat using sockets and AES for encryption.
   Encrypt before sending.
 </li>
 <li>
-  Display the name set when joining.
+  Display the name set when you join and display it to others before your message.
 </li>
 <li>
   Join and leave msg (to the actual members of the chat).
